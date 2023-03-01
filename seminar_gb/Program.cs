@@ -10,18 +10,18 @@ Clear();
 // 3, 5 -> 243 (3⁵)
 // 2, 4 -> 16
 
-// Write("Число А: ");
-// int a = Convert.ToInt32(ReadLine()!);
-// Write("Число Б: ");
-// int b = Convert.ToInt32(ReadLine()!);
-// int c = 1;
+Write("Число А: ");
+int a = Convert.ToInt32(ReadLine()!);
+Write("Число Б: ");
+int b = Convert.ToInt32(ReadLine()!);
+int c = 1;
 
-// while(b > 0)
-// {
-//     c = c*a;
-//     b--;
-// }
-// Write(c);
+while(b > 0)
+{
+    c = c*a;
+    b--;
+}
+Write(c);
 
 
 
@@ -33,16 +33,16 @@ Clear();
 // 82 -> 10
 // 9012 -> 12
 
-// int a = new Random().Next(10, 9999);
-// WriteLine($"Получили рандомное число: {a}");
+int a = new Random().Next(10, 9999);
+WriteLine($"Получили рандомное число: {a}");
 
-// int a1 = a/100/10; // Получили последнее число:
-// int a2 = a/100%10; // Получили второе число:
-// int a3 = a%100/10; // Получили третье число
-// int a4 = a%10; // Получили последнее число
+int a1 = a/100/10; // Получили последнее число:
+int a2 = a/100%10; // Получили второе число:
+int a3 = a%100/10; // Получили третье число
+int a4 = a%10; // Получили последнее число
 
-// int total = a1+a2+a3+a4;
-// WriteLine(total);
+int total = a1+a2+a3+a4;
+WriteLine(total);
 
 
 
@@ -52,3 +52,12 @@ Clear();
 // 1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
 // 6, 1, 33 -> [6, 1, 33]
 
+int[] array = new int[20];
+Write("[");
+for (int i = 0; i < 8; i++)
+{
+    int a =+ new Random().Next(5,19);
+    //Write($"'{a}' ");
+    Write($" {array[i] + a}, ");
+}
+Write("]");
