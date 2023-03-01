@@ -1,0 +1,15 @@
+/Users/sergeydvoreckij/Desktop/GB_CSharp/seminar_gb/bin/Debug/net6.0/seminar_gb
+/Users/sergeydvoreckij/Desktop/GB_CSharp/seminar_gb/bin/Debug/net6.0/seminar_gb.deps.json
+/Users/sergeydvoreckij/Desktop/GB_CSharp/seminar_gb/bin/Debug/net6.0/seminar_gb.runtimeconfig.json
+/Users/sergeydvoreckij/Desktop/GB_CSharp/seminar_gb/bin/Debug/net6.0/seminar_gb.dll
+/Users/sergeydvoreckij/Desktop/GB_CSharp/seminar_gb/bin/Debug/net6.0/seminar_gb.pdb
+/Users/sergeydvoreckij/Desktop/GB_CSharp/seminar_gb/obj/Debug/net6.0/seminar_gb.csproj.AssemblyReference.cache
+/Users/sergeydvoreckij/Desktop/GB_CSharp/seminar_gb/obj/Debug/net6.0/seminar_gb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeydvoreckij/Desktop/GB_CSharp/seminar_gb/obj/Debug/net6.0/seminar_gb.AssemblyInfoInputs.cache
+/Users/sergeydvoreckij/Desktop/GB_CSharp/seminar_gb/obj/Debug/net6.0/seminar_gb.AssemblyInfo.cs
+/Users/sergeydvoreckij/Desktop/GB_CSharp/seminar_gb/obj/Debug/net6.0/seminar_gb.csproj.CoreCompileInputs.cache
+/Users/sergeydvoreckij/Desktop/GB_CSharp/seminar_gb/obj/Debug/net6.0/seminar_gb.dll
+/Users/sergeydvoreckij/Desktop/GB_CSharp/seminar_gb/obj/Debug/net6.0/refint/seminar_gb.dll
+/Users/sergeydvoreckij/Desktop/GB_CSharp/seminar_gb/obj/Debug/net6.0/seminar_gb.pdb
+/Users/sergeydvoreckij/Desktop/GB_CSharp/seminar_gb/obj/Debug/net6.0/seminar_gb.genruntimeconfig.cache
+/Users/sergeydvoreckij/Desktop/GB_CSharp/seminar_gb/obj/Debug/net6.0/ref/seminar_gb.dll

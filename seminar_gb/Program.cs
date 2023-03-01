@@ -10,7 +10,18 @@ Clear();
 // 3, 5 -> 243 (3⁵)
 // 2, 4 -> 16
 
+Write("Число А: ");
+int a = Convert.ToInt32(ReadLine()!);
+Write("Число Б: ");
+int b = Convert.ToInt32(ReadLine()!);
+int c = 1;
 
+while(b > 0)
+{
+    c = c*a;
+    b--;
+}
+Write(c);
 
 
 
