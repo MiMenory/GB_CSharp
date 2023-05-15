@@ -1,0 +1,15 @@
+/Users/sergeydvoreckij/Documents/Proramming/GB_CSharp/lesson/obj/Debug/net6.0/lesson.csproj.AssemblyReference.cache
+/Users/sergeydvoreckij/Documents/Proramming/GB_CSharp/lesson/obj/Debug/net6.0/lesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeydvoreckij/Documents/Proramming/GB_CSharp/lesson/obj/Debug/net6.0/lesson.AssemblyInfoInputs.cache
+/Users/sergeydvoreckij/Documents/Proramming/GB_CSharp/lesson/obj/Debug/net6.0/lesson.AssemblyInfo.cs
+/Users/sergeydvoreckij/Documents/Proramming/GB_CSharp/lesson/obj/Debug/net6.0/lesson.csproj.CoreCompileInputs.cache
+/Users/sergeydvoreckij/Documents/Proramming/GB_CSharp/lesson/bin/Debug/net6.0/lesson
+/Users/sergeydvoreckij/Documents/Proramming/GB_CSharp/lesson/bin/Debug/net6.0/lesson.deps.json
+/Users/sergeydvoreckij/Documents/Proramming/GB_CSharp/lesson/bin/Debug/net6.0/lesson.runtimeconfig.json
+/Users/sergeydvoreckij/Documents/Proramming/GB_CSharp/lesson/bin/Debug/net6.0/lesson.dll
+/Users/sergeydvoreckij/Documents/Proramming/GB_CSharp/lesson/bin/Debug/net6.0/lesson.pdb
+/Users/sergeydvoreckij/Documents/Proramming/GB_CSharp/lesson/obj/Debug/net6.0/lesson.dll
+/Users/sergeydvoreckij/Documents/Proramming/GB_CSharp/lesson/obj/Debug/net6.0/refint/lesson.dll
+/Users/sergeydvoreckij/Documents/Proramming/GB_CSharp/lesson/obj/Debug/net6.0/lesson.pdb
+/Users/sergeydvoreckij/Documents/Proramming/GB_CSharp/lesson/obj/Debug/net6.0/lesson.genruntimeconfig.cache
+/Users/sergeydvoreckij/Documents/Proramming/GB_CSharp/lesson/obj/Debug/net6.0/ref/lesson.dll
