@@ -28,9 +28,17 @@ Clear();
 Random rnd = new Random();
 int rand = rnd.Next(10,99);
 WriteLine($"Получаем {rand}");
-int a = rand % 10;
-WriteLine($"Втоаря цифра числа {a}");
-
+int a = rand / 10;
+int b = rand % 10;
+WriteLine($"{a} {b}");
+if (a > b)
+{
+    WriteLine($"Наибольшая цифра числа {a}");
+}
+else
+{
+    WriteLine($"Наибольшая цифра числа {b}");
+}
 
 
 
