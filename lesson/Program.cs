@@ -10,10 +10,17 @@ Clear();
 // 3, 5 -> 243 (3⁵)
 // 2, 4 -> 16
 
-
-
-
-
+// Write("Введите число: ");
+// int a = Convert.ToInt32(ReadLine()!);
+// Write("в какую степень будет возводить? : ");
+// int b = Convert.ToInt32(ReadLine()!);
+// int a1 = a;
+// while(b > 1)
+// {
+//     a1 = a1 * a;
+//     b--;
+// }
+// Write(a1);
 
 
 
@@ -24,10 +31,18 @@ Clear();
 // 9012 -> 12
 
 
+// Random rnd = new Random();
+// int a = rnd.Next(100, 999+1);
+// WriteLine(a);
 
+// int a1 = a/100; 
+// WriteLine($"Первая цифра числа:{a1}");
+// int a2 = a/10%10;
+// WriteLine($"Вторая цифра числа: {a2}");
+// int a3 = a%10;
+// WriteLine($"Последняя цифра числа: {a3}");
 
-
-
+// WriteLine($"Сумма цифр: {a1+a2+a3}");
 
 
 
@@ -35,3 +50,13 @@ Clear();
 // Задача 29: Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
 // 1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
 // 6, 1, 33 -> [6, 1, 33]
+
+// Random rnd = new Random();
+// int[] array = new int[8];
+// Write("[");
+// for (int i = 0; i < array.Length; i++)
+// {
+//     array[i] = rnd.Next(5, 20);
+//     Write($"{array[i]},");
+// }
+// Write("]");
