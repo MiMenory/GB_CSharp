@@ -203,17 +203,47 @@ X Y могу меняться время от времени.
 // Задача 33: Задайте массив. Напишите программу, которая определяет, присутствует 
 // ли заданное число в массиве.
 // 4; массив [6, 7, 19, 345, 3] -> нет
-// -3; массив [6, 7, 19, 345, 3] -> да
+// 3; массив [6, 7, 19, 345, 3] -> да
 
 
 
+// создаем массив
+// void CreateArray(int[] array)
+// {
+//     Random rnd = new Random();
+//     int count = 0;
+//     while(count < array.Length)
+//     {
+//         Write($"{array[count] = rnd.Next(1,9)},");
+//         count++;
+//     }
+// }
+
+// // ищем цифры
+// void findarray(int[] find)
+// {
+//     int a = 0;
+//     int con = 3;
+//     while(a < find.Length)
+//     {
+//         if(find[a] == con)
+//         {
+//             WriteLine($"цифра {con} есть в массиве");
+//             break;
+//         }
+//         else
+//         {
+//             //WriteLine("данной цифры нет");
+//             a++;
+//         }
+//     }
+// }
 
 
-
-
-
-
-
+// int[] arr = new int[5];
+// CreateArray(arr);
+// Write("\n");
+// findarray(arr);
 
 
 // Задача 35: Задайте одномерный массив из 123 случайных чисел. Найдите количество элементов массива, 
@@ -223,11 +253,37 @@ X Y могу меняться время от времени.
 // [1, 2, 3, 6, 2] -> 0
 // [10, 11, 12, 13, 14] -> 5
 
+// void CreateArray(int[] array)
+// {
+//     Random rnd = new Random();
+//     int count = 0;
+//     while(count < array.Length)
+//     {
+//         Write($"{array[count] = rnd.Next(1,123)},");
+//         count++;
+//     }
+// }
+
+// void finearray(int[] find)
+// {
+//     int a = 0;
+//     int b = 0;
+//     while(a < find.Length)
+//     {
+//         if(find[a] > 10 && find[a] < 100)
+//         {
+//             b++;
+//         }
+//         a++;
+//     }
+//     WriteLine($"Значений, который лежат в отрезке от 10 до 99: {b}");
+// }
 
 
-
-
-
+// int[] arr = new int[5];
+// CreateArray(arr);
+// Write("\n");
+// finearray(arr);
 
 
 
@@ -239,8 +295,38 @@ X Y могу меняться время от времени.
 // [6 7 3 6] -> 36 21
 
 
+// void CreateArray(int[] array)
+// {
+//     Random rnd = new Random();
+//     int count = 0;
+//     while(count < array.Length)
+//     {
+//         Write($"{array[count] = rnd.Next(1,5)} ");
+//         count++;
+//     }
+// }
+
+// // считаем данные
+// void findnumber(int[] numb)
+// {
+//     int count = 0;
+//     int num = numb.Length;
+//     int aa = 0;
+//     int bb = numb.Length;
+//     while(count < numb.Length)
+//     {
+//         num = numb[aa] * numb[bb-1];
+//         Write($"{num} ");
+//         aa++;
+//         bb--;
+//         count++;
+//     }
+// }
 
 
-
+// int[] arr = new int[5];
+// CreateArray(arr);
+// Write("\n");
+// findnumber(arr);
 
 
